@@ -12,5 +12,6 @@ public class SingletonDemo {
         System.out.println(threadSafe);
 
         System.out.println("Singleton pattern");
+        System.out.println("Below");
     }
 }
