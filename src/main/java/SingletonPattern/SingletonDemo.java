@@ -13,5 +13,6 @@ public class SingletonDemo {
 
         System.out.println("Above");
         System.out.println("Singleton pattern");
+        System.out.println("Below");
     }
 }
