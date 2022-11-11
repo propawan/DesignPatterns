@@ -11,6 +11,7 @@ public class SingletonDemo {
         LoggerSingletonThreadSafe threadSafe = LoggerSingletonThreadSafe.getInstance();
         System.out.println(threadSafe);
 
+        System.out.println("Above");
         System.out.println("Singleton pattern");
     }
 }
